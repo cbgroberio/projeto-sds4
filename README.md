@@ -1,3 +1,2 @@
 # projeto-sds4
-Projeto de senvolvido na Semana Spring React da DevSuperior, de 6 a 12 de setembro. 
-https://devsuperior.com.br
+Projeto desenvolvido na **Semana Spring React** promovida pela [DevSuperior](https://devsuperior.com.br), de 6 a 12 de setembro de 2021. 
